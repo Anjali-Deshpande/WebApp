@@ -1,1 +1,2 @@
 # WebApp
+## Detailed design
